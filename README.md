@@ -1,0 +1,1 @@
+Repositório criado com o intuito de públicar código referentes a lógicas de programação extraídos do https://leetcode.com
